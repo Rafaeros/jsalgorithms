@@ -12,3 +12,6 @@ function switchValues(n1, n2) {
 }
 
 switchValues(a, b)
+
+//Other option to switchvalues
+console.log(([a, b] = [b, a]))
