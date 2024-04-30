@@ -1,1 +1,1 @@
-Javascript algorithms made by myself
+Javascript algorithms made at the udemy course about Modern Web Development
